@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScreenOnProximityCheck</string>
+    <string name="title_activity_main">ScreenOnProximityCheck</string>
+    <string name="info">All good!</string>
+
+</resources>
